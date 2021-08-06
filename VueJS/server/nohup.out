@@ -1,0 +1,22 @@
+Watching for file changes with StatReloader
+[05/Aug/2021 15:16:37] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:16:38] "GET /static/dist/css/app.137d93aa.css HTTP/1.1" 304 0
+[05/Aug/2021 15:16:38] "GET /static/dist/css/chunk-vendors.63c5e34a.css HTTP/1.1" 304 0
+[05/Aug/2021 15:16:38] "GET /static/dist/js/app.7a8b0edd.js HTTP/1.1" 304 0
+[05/Aug/2021 15:16:38] "GET /static/dist/js/chunk-vendors.e73037d5.js HTTP/1.1" 304 0
+[05/Aug/2021 15:16:39] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:17:03] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:17:04] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:17:08] "GET /static/dist/ HTTP/1.1" 404 1893
+[05/Aug/2021 15:17:15] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:17:16] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:17:26] "GET /static/dist/ HTTP/1.1" 404 1893
+[05/Aug/2021 15:17:29] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:17:30] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:17:33] "GET /static/dist/img/background.ce318ee7.jpg HTTP/1.1" 304 0
+[05/Aug/2021 15:20:09] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:20:10] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:20:16] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:20:17] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
+[05/Aug/2021 15:20:27] "GET / HTTP/1.1" 200 890
+[05/Aug/2021 15:20:28] "GET /static/dist/static/dist/img/logo.6bd73284.jpg HTTP/1.1" 404 1989
